@@ -11,3 +11,5 @@ var no = function (){
     console.log('test')
 }
 ````
+
+>冲突测试2.0
